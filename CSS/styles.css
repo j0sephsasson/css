@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 500%;
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+    color: lightseagreen;
+    font-weight: lighter;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: lightseagreen;
+    font-weight: normal;
+}
+
+.contact-me{
+    margin-top: 100px;
+    line-height: 2;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    color: lightseagreen;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.Top {
+    color: lightseagreen;
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.skill-row{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.web-skills{
+    border: 0px;
+    font-weight: lighter;
+}
+
+.profile-pic{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 25%;
+}
+
+.web-development{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.digital-marketing{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+hr{
+    border-top: 10px dotted grey;
+    width: 7%;
+}
+
+.skills{
+    margin-top: 100px;
+}
+
+.brief-bio{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.middle-container {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #40514E;
+
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+    background-color:#66BFBF ;
+   
+}
+
+.btn {
+    margin-top: 75px;
+    margin-bottom: 100px;
+    text-align: center;
+	background:linear-gradient(to bottom, lightseagreen 5%, lightseagreen 100%);
+	background-color:lightseagreen;
+	border-radius:5px;
+	border:1px solid lightseagreen;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding: 6px 22px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px lightseagreen;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+
+.copyright{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
